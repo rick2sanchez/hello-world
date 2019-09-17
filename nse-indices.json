@@ -1,5 +1,4 @@
-{ data:
-   [ { timeVal: 'Sep 17, 2019 15:32:30',
+[ { timeVal: 'Sep 17, 2019 15:32:30',
        indexName: 'NIFTY 50',
        previousClose: '11,003.50',
        open: '11,000.10',
@@ -603,4 +602,5 @@
        percChange: '-0.06',
        yearHigh: '0.00',
        yearLow: '0.00',
-       indexOrder: '.00' } ] }
+       indexOrder: '.00' } 
+	]
